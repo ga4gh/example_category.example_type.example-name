@@ -16,7 +16,7 @@ Example repo for TASC workshop at EBI# Project Name
 - [Deployment](#deployment)
 - [Contribute](#contribute)
 - [License](#license)
-- [Acknowledgements & Contacts](#acknowledgements-&-contacts)
+- [Contacts](#contacts)
 
 ---
 
@@ -101,7 +101,7 @@ Include license details (MIT, Apache 2.0, etc.) or a link to your license file.
 
 ---
 
-## Acknowledgements & Contacts
+## Contacts
 List maintainers or team contact info:
 
 - Slack channel: #project-name
