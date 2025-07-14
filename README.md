@@ -14,9 +14,9 @@ Example repo for TASC workshop at EBI# Project Name
 - [Development](#development)
 - [Testing](#testing)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
+- [Contribute](#contribute)
 - [License](#license)
-- [Contact](#contact)
+- [Acknowledgements & Contacts](#acknowledgements-&-contacts)
 
 ---
 
@@ -62,14 +62,11 @@ python app.py
 ---
 
 ## Development
-- Details for developers working on the repo:
+Details for developers working on the repo:
 
 - Code structure or module overview
-
 - How to spin up the dev environment
-
 - Branching/naming convention
-
 - Linting or formatting guidelines
 
 ---
@@ -89,9 +86,7 @@ Mention any testing frameworks used.
 How to deploy to environments (e.g., dev, staging, prod):
 
 - CI/CD instructions
-
 - Docker or Kubernetes setup (if any)
-
 - Environment variables or secrets
 
 ---
@@ -110,5 +105,4 @@ Include license details (MIT, Apache 2.0, etc.) or a link to your license file.
 List maintainers or team contact info:
 
 - Slack channel: #project-name
-
 - Email: project-team@your-org.com
