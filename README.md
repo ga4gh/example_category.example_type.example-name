@@ -1,2 +1,2 @@
-# example_category.example_type.example-name
-Example repo for TASC workshop at EBI
+# ga4gh-product_name
+Template Repository for GA4GH Technical Products
