@@ -1,4 +1,4 @@
-# example_category.example_type.example-name
+# ga4gh-product_name
 Example repo for TASC workshop at EBI# Project Name
 
 # Project Name
