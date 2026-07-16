@@ -1,6 +1,0 @@
-# SPDX-FileCopyrightText: 2021-2026 Your Org / GA4GH Contributors
-# SPDX-License-Identifier: Apache-2.0
-#
-# Example: GA4GH-style API/schema definitions are commonly Apache-2.0
-title: ExampleSchema
-type: object
