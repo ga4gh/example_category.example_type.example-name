@@ -1,7 +1,7 @@
 version = 1
 SPDX-PackageName = "ga4gh-product-template"
-SPDX-PackageSupplier = "Your Org <maintainers@example.org>"
-SPDX-PackageDownloadLocation = "https://github.com/your-org/your-repo"
+SPDX-PackageSupplier = "GA4GH <tech-team@ga4gh.org>"
+SPDX-PackageDownloadLocation = "https://github.com/ga4gh/ga4gh-product_name"
 
 # Default license for the bulk of the codebase.
 # Individual files can still override this with their own
